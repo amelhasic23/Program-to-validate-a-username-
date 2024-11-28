@@ -1,0 +1,7 @@
+F:\Provera validnosti username-a\Provera validnosti username-a\bin\Debug\Provera validnosti username-a.exe.config
+F:\Provera validnosti username-a\Provera validnosti username-a\bin\Debug\Provera validnosti username-a.exe
+F:\Provera validnosti username-a\Provera validnosti username-a\bin\Debug\Provera validnosti username-a.pdb
+F:\Provera validnosti username-a\Provera validnosti username-a\obj\Debug\Provera validnosti username-a.csproj.AssemblyReference.cache
+F:\Provera validnosti username-a\Provera validnosti username-a\obj\Debug\Provera validnosti username-a.csproj.CoreCompileInputs.cache
+F:\Provera validnosti username-a\Provera validnosti username-a\obj\Debug\Provera validnosti username-a.exe
+F:\Provera validnosti username-a\Provera validnosti username-a\obj\Debug\Provera validnosti username-a.pdb
